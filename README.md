@@ -45,6 +45,9 @@ First, start the server:
 ```bash
 go run cmd/server/main.go
 ```
+The server will run on localhost:8080 by default
+![alt text](https://github.com/jyotiprakashh/LAN-Party/blob/main/screenshots/server.png?raw=true)
+
 
 ### Run the Client
 
