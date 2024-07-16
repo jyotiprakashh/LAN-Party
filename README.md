@@ -56,6 +56,18 @@ In a separate terminal, start a client:
 go run cmd/client/main.go
 ```
 
+Your terminal will convert to this ui where it will ask for an username:
+![alt text](https://github.com/jyotiprakashh/LAN-Party/blob/main/screenshots/client1.png?raw=true)
+
+If you will be alone, a message will show to invite your friends:
+![alt text](https://github.com/jyotiprakashh/LAN-Party/blob/main/screenshots/client2.png?raw=true)
+
+After anyone joins the room notification message wwill be shown that they have joined and the number of active users in the chat will get updated:
+![alt text](https://github.com/jyotiprakashh/LAN-Party/blob/main/screenshots/client3.png?raw=true)
+
+If the any user leaves the room, it will show that they have left the chat.
+![alt text](https://github.com/jyotiprakashh/LAN-Party/blob/main/screenshots/client4.png?raw=true)
+
 ### Using the Makefile
 Alternatively, you can use the provided Makefile to build and run the server and client:
 
