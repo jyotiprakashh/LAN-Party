@@ -10,7 +10,7 @@ Welcome to **LAN Party Chat**, a fun and simple TCP-based chat application! Gath
 - [Packages Used](#packages-used)
 - [Contributing](#contributing)
 
-## 🌟 Introduction
+## 🌟 Introduction #introduction
 
 LAN Party Chat is a terminal-based chat application designed for local area networks. It's built with Go and uses TCP for real-time communication. Whether you're in the same room or just on the same network, you can chat with your friends like it's the good old days of LAN parties!
 
