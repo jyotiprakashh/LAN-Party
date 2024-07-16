@@ -7,10 +7,8 @@ Welcome to **LAN Party Chat**, a fun and simple TCP-based chat application! Gath
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
 - [Packages Used](#packages-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Introduction
 
