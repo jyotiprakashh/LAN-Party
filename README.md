@@ -4,11 +4,11 @@ Welcome to **LAN Party Chat**, a fun and simple TCP-based chat application! Gath
 
 ## 📋 Table of Contents
 - [Introduction](#-introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Packages Used](#packages-used)
-- [Contributing](#contributing)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Packages Used](#-packages-used)
+- [Contributing](#-contributing)
 
 ## 🌟 Introduction
 
