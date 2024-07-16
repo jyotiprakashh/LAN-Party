@@ -3,7 +3,7 @@
 Welcome to **LAN Party Chat**, a fun and simple TCP-based chat application! Gather your friends, connect to the same network, and start chatting away like it's the 90s again!
 
 ## 📋 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#-introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
